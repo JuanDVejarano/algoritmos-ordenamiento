@@ -1,0 +1,19 @@
+{
+  "name": "algoritmos-ordenamieto",
+  "version": "1.0.0",
+  "description": "Algoritmos que nos permiten ordenar un arreglo de n posiciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToyekaXV/algoritmos-ordenamiento.git"
+  },
+  "author": "Juan Vejarano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToyekaXV/algoritmos-ordenamiento/issues"
+  },
+  "homepage": "https://github.com/ToyekaXV/algoritmos-ordenamiento#readme"
+}
